@@ -1,0 +1,42 @@
+body{
+
+  text-align: center;
+  font-family: poppins, serif;
+}
+h1{
+  font-size: 35px;
+}
+h2{
+  font-size: 20px;
+}
+.top-container{
+  background-color: #c8eed9;
+  position: relative;
+  padding-top: 235px;
+}
+.top-cloud{
+  position: absolute;
+  left: 350px;
+  top: 150px;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 350px;
+  bottom: 300px;
+}
+
+.profile-picture{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+}
+
+.skill-img{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+}
+.skill-img-2{
+  width: 80px;
+  height:80px;
+}
